@@ -34,5 +34,4 @@ serve:
   - 'sass:preview'
   - 'autoprefixer:preview'
   - 'express'
-  - 'open'
   - 'watch'
